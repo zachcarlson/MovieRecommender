@@ -30,8 +30,6 @@ Alphabetized by last name:
 - Zach Carlson, zc378@drexel.edu
 - Andrew Napolitano, asn65@drexel.edu
 
-## Project Requirements
-
 
 ## Python Requirements
 - Python ≥ 3.8. 
